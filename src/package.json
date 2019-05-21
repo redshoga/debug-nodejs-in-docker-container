@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "npx node-dev --nolazy --inspect=0.0.0.0 index.js"
+  }
+}
